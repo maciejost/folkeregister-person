@@ -56,7 +56,7 @@ export const Random = () => {
 						}, 2000)
 					}}
 				>
-					Koper til utklippstavlen
+					Kopier til utklippstavlen
 				</button>
 			</div>
 			{copied && <p className='copied'>Kopiert til utklippstavlen</p>}
